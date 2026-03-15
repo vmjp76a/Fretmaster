@@ -1,0 +1,1 @@
+A complete class for managing scale pattern highlighting functionality allowing users to select fretboard sections to highlight scale patterns.
